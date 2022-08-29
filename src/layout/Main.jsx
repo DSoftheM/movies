@@ -5,6 +5,7 @@ export default function Main() {
         <>
             <main className="container content">
                 main
+                main
             </main>
         </>
     )
